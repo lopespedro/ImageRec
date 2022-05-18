@@ -1,0 +1,25 @@
+{
+  "name": "imagerec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopespedro/ImageRec.git"
+  },
+  "author": "Pedro Lopes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopespedro/ImageRec/issues"
+  },
+  "homepage": "https://github.com/lopespedro/ImageRec#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
