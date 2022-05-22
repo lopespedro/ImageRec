@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/lopespedro/ImageRec.git"
   },
+  "type":"module",
   "author": "Pedro Lopes",
   "license": "ISC",
   "bugs": {
